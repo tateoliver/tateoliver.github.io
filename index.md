@@ -8,7 +8,7 @@
 <img src="https://hitwebcounter.com/counter/counter.php?page=7958828&style=0010&nbdigits=5&type=page&initCount=0" title="Free Counter" Alt="web counter"   border="0" /></a>      
 
 # **My friends unblockers**
-[https://www.chaseschoolunblock.tk/] **note this sight will be removed at 5:30 pm**
+[https://www.chaseschoolunblock.tk/] **note this site will be removed at 5:30 pm**
 
 
 
