@@ -20,6 +20,6 @@ if changes are neaded email me at
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/65LdqYCLcsV0lJoxpeQ6fW?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
-  <iframe style="border-radius:12px" src="https://delayedchase-incognito.herokuapp.com/" with="400%" height="980" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-wright; encryped-media; fullscreen; picture"></iframe>
+  <iframe style="border-radius:12px" src="https://delayedchase-incognito.herokuapp.com/" with="900%" height="980" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-wright; encryped-media; fullscreen; picture"></iframe>
  
  <iframe style="border-radius:12px" src="view-source:https://delayedchase-incognito.herokuapp.com/" with="50%" height="48" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-wright; encryped-media; fullscreen; picture"></iframe>
